@@ -121,7 +121,7 @@ $('#yes').click(function() {
                 width: 900,
                 confirmButtonText: 'Ấn OKie đi ạ không còn sự lựa chọn nào khác đâu <3',
                 background: '#fff url("img/iput-bg.jpg")',
-                title: 'Em biết mà ^^ Yêu anh 300.000',
+              
                 text: "khảo sát đên đây là kết thúc Oppa vui lòng trả phí khảo sát vào số tài khoản 106870580175 vietinbank hoặc bằng 1 bữa cơm tự nấu thật ngonn",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
