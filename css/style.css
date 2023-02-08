@@ -58,6 +58,9 @@ div#swal2-content{
   content {
     font-size: 21px;
   }
+  header {
+    padding-top: 50px;
+  }
   header h2 {
     font-family: 'Pacifico';
     font-size: 45px;

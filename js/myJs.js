@@ -122,7 +122,7 @@ $('#yes').click(function() {
                 confirmButtonText: 'Ấn OKie đi ạ không còn sự lựa chọn nào khác đâu <3',
                 background: '#fff url("img/iput-bg.jpg")',
               
-                text: "khảo sát đên đây là kết thúc Oppa vui lòng trả phí khảo sát vào số tài khoản 106870580175 vietinbank hoặc bằng 1 bữa cơm tự nấu thật ngonn",
+                text: "Khảo sát đến đây là kết thúc Oppa vui lòng trả phí khảo sát vào số tài khoản 106870580175 vietinbank hoặc bằng 1 bữa cơm tự nấu thật ngonn",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'https://www.facebook.com/changchang.FynML';
